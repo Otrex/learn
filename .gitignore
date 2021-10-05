@@ -1,0 +1,6 @@
+
+node_modules
+transcoder
+videos
+**/node_modules
+myportfolio
